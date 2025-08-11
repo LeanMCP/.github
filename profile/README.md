@@ -4,8 +4,8 @@ Leanmcp.com is the fastest way to build, test, ship, use and monitor Model Conte
 
 ## Getting started
 
-UI : Visit leanmcp.com to get started.
-CLI Installation: For Mac: Install via brew and use directly from your command line.
+- UI : Visit leanmcp.com to get started.
+- CLI Installation: For Mac: Install via brew and use directly from your command line.
 
 ## Documentation: 
 
